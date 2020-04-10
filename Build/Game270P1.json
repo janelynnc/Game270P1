@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game236_start",
+"productVersion": "0.1",
+"dataUrl": "Game270P1.data.unityweb",
+"wasmCodeUrl": "Game270P1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Game270P1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
